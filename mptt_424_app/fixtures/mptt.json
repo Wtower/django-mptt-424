@@ -1,0 +1,418 @@
+[
+{
+    "model": "mptt_424_app.menuitem",
+    "pk": 1,
+    "fields": {
+        "path": "",
+        "title": "Main menu",
+        "disabled": false,
+        "tree_id": 1,
+        "level": 0,
+        "weight": 0,
+        "language": "",
+        "rght": 22,
+        "lft": 1,
+        "parent": null
+    }
+},
+{
+    "model": "mptt_424_app.menuitem",
+    "pk": 2,
+    "fields": {
+        "path": "/",
+        "title": "\u0391\u03c1\u03c7\u03b9\u03ba\u03ae",
+        "disabled": false,
+        "tree_id": 1,
+        "level": 1,
+        "weight": 0,
+        "language": "el",
+        "rght": 3,
+        "lft": 2,
+        "parent": 1
+    }
+},
+{
+    "model": "mptt_424_app.menuitem",
+    "pk": 3,
+    "fields": {
+        "path": "",
+        "title": "Contact info",
+        "disabled": false,
+        "tree_id": 2,
+        "level": 0,
+        "weight": 0,
+        "language": "",
+        "rght": 6,
+        "lft": 1,
+        "parent": null
+    }
+},
+{
+    "model": "mptt_424_app.menuitem",
+    "pk": 4,
+    "fields": {
+        "path": "tel:+302310900800",
+        "title": "2310 900800",
+        "disabled": false,
+        "tree_id": 2,
+        "level": 1,
+        "weight": 0,
+        "language": "",
+        "rght": 3,
+        "lft": 2,
+        "parent": 3
+    }
+},
+{
+    "model": "mptt_424_app.menuitem",
+    "pk": 5,
+    "fields": {
+        "path": "",
+        "title": "\u039a\u03b1\u03bb\u03bf\u03c7\u03ce\u03c1\u03b9 \u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03bf\u03bd\u03af\u03ba\u03b7\u03c2",
+        "disabled": false,
+        "tree_id": 2,
+        "level": 1,
+        "weight": 0,
+        "language": "",
+        "rght": 5,
+        "lft": 4,
+        "parent": 3
+    }
+},
+{
+    "model": "mptt_424_app.menuitem",
+    "pk": 6,
+    "fields": {
+        "path": "",
+        "title": "Social",
+        "disabled": false,
+        "tree_id": 3,
+        "level": 0,
+        "weight": 0,
+        "language": "",
+        "rght": 8,
+        "lft": 1,
+        "parent": null
+    }
+},
+{
+    "model": "mptt_424_app.menuitem",
+    "pk": 7,
+    "fields": {
+        "path": "http://www.facebook.com",
+        "title": "Facebook",
+        "disabled": false,
+        "tree_id": 3,
+        "level": 1,
+        "weight": 0,
+        "language": "",
+        "rght": 3,
+        "lft": 2,
+        "parent": 6
+    }
+},
+{
+    "model": "mptt_424_app.menuitem",
+    "pk": 8,
+    "fields": {
+        "path": "https://www.twitter.com",
+        "title": "Twitter",
+        "disabled": false,
+        "tree_id": 3,
+        "level": 1,
+        "weight": 0,
+        "language": "",
+        "rght": 5,
+        "lft": 4,
+        "parent": 6
+    }
+},
+{
+    "model": "mptt_424_app.menuitem",
+    "pk": 9,
+    "fields": {
+        "path": "http://www.google.com",
+        "title": "Google plus",
+        "disabled": false,
+        "tree_id": 3,
+        "level": 1,
+        "weight": 0,
+        "language": "",
+        "rght": 7,
+        "lft": 6,
+        "parent": 6
+    }
+},
+{
+    "model": "mptt_424_app.menuitem",
+    "pk": 10,
+    "fields": {
+        "path": "",
+        "title": "Footer links",
+        "disabled": false,
+        "tree_id": 4,
+        "level": 0,
+        "weight": 0,
+        "language": "",
+        "rght": 4,
+        "lft": 1,
+        "parent": null
+    }
+},
+{
+    "model": "mptt_424_app.menuitem",
+    "pk": 11,
+    "fields": {
+        "path": "/",
+        "title": "\u0391\u03c1\u03c7\u03b9\u03ba\u03ae",
+        "disabled": false,
+        "tree_id": 4,
+        "level": 1,
+        "weight": 0,
+        "language": "",
+        "rght": 3,
+        "lft": 2,
+        "parent": 10
+    }
+},
+{
+    "model": "mptt_424_app.menuitem",
+    "pk": 12,
+    "fields": {
+        "path": "about",
+        "title": "\u03a0\u03bf\u03b9\u03bf\u03b9 \u03b5\u03af\u03bc\u03b1\u03c3\u03c4\u03b5",
+        "disabled": false,
+        "tree_id": 1,
+        "level": 1,
+        "weight": 0,
+        "language": "el",
+        "rght": 5,
+        "lft": 4,
+        "parent": 1
+    }
+},
+{
+    "model": "mptt_424_app.menuitem",
+    "pk": 13,
+    "fields": {
+        "path": "",
+        "title": "Site map",
+        "disabled": false,
+        "tree_id": 5,
+        "level": 0,
+        "weight": 0,
+        "language": "",
+        "rght": 12,
+        "lft": 1,
+        "parent": null
+    }
+},
+{
+    "model": "mptt_424_app.menuitem",
+    "pk": 14,
+    "fields": {
+        "path": "/",
+        "title": "\u0391\u03c1\u03c7\u03b9\u03ba\u03ae",
+        "disabled": false,
+        "tree_id": 5,
+        "level": 1,
+        "weight": 0,
+        "language": "",
+        "rght": 11,
+        "lft": 2,
+        "parent": 13
+    }
+},
+{
+    "model": "mptt_424_app.menuitem",
+    "pk": 15,
+    "fields": {
+        "path": "about",
+        "title": "\u03a0\u03bf\u03b9\u03bf\u03b9 \u03b5\u03af\u03bc\u03b1\u03c3\u03c4\u03b5",
+        "disabled": false,
+        "tree_id": 5,
+        "level": 2,
+        "weight": 0,
+        "language": "",
+        "rght": 4,
+        "lft": 3,
+        "parent": 14
+    }
+},
+{
+    "model": "mptt_424_app.menuitem",
+    "pk": 16,
+    "fields": {
+        "path": "tours",
+        "title": "\u0395\u03ba\u03b4\u03c1\u03bf\u03bc\u03ad\u03c2",
+        "disabled": false,
+        "tree_id": 1,
+        "level": 1,
+        "weight": 0,
+        "language": "el",
+        "rght": 11,
+        "lft": 6,
+        "parent": 1
+    }
+},
+{
+    "model": "mptt_424_app.menuitem",
+    "pk": 17,
+    "fields": {
+        "path": "tours",
+        "title": "\u0395\u03ba\u03b4\u03c1\u03bf\u03bc\u03ad\u03c2",
+        "disabled": false,
+        "tree_id": 5,
+        "level": 2,
+        "weight": 0,
+        "language": "",
+        "rght": 10,
+        "lft": 5,
+        "parent": 14
+    }
+},
+{
+    "model": "mptt_424_app.menuitem",
+    "pk": 18,
+    "fields": {
+        "path": "/#contact",
+        "title": "\u0395\u03c0\u03b9\u03ba\u03bf\u03b9\u03bd\u03c9\u03bd\u03af\u03b1",
+        "disabled": false,
+        "tree_id": 1,
+        "level": 1,
+        "weight": 0,
+        "language": "el",
+        "rght": 13,
+        "lft": 12,
+        "parent": 1
+    }
+},
+{
+    "model": "mptt_424_app.menuitem",
+    "pk": 19,
+    "fields": {
+        "path": "tour/meteora",
+        "title": "\u039c\u03b5\u03c4\u03ad\u03c9\u03c1\u03b1",
+        "disabled": false,
+        "tree_id": 5,
+        "level": 3,
+        "weight": 0,
+        "language": "",
+        "rght": 7,
+        "lft": 6,
+        "parent": 17
+    }
+},
+{
+    "model": "mptt_424_app.menuitem",
+    "pk": 20,
+    "fields": {
+        "path": "tour/bansko",
+        "title": "Bansko",
+        "disabled": false,
+        "tree_id": 5,
+        "level": 3,
+        "weight": 0,
+        "language": "",
+        "rght": 9,
+        "lft": 8,
+        "parent": 17
+    }
+},
+{
+    "model": "mptt_424_app.menuitem",
+    "pk": 21,
+    "fields": {
+        "path": "tour/meteora",
+        "title": "\u039c\u03b5\u03c4\u03ad\u03c9\u03c1\u03b1",
+        "disabled": true,
+        "tree_id": 1,
+        "level": 2,
+        "weight": 0,
+        "language": "",
+        "rght": 8,
+        "lft": 7,
+        "parent": 16
+    }
+},
+{
+    "model": "mptt_424_app.menuitem",
+    "pk": 22,
+    "fields": {
+        "path": "tour/bansko",
+        "title": "Bansko",
+        "disabled": true,
+        "tree_id": 1,
+        "level": 2,
+        "weight": 0,
+        "language": "",
+        "rght": 10,
+        "lft": 9,
+        "parent": 16
+    }
+},
+{
+    "model": "mptt_424_app.menuitem",
+    "pk": 23,
+    "fields": {
+        "path": "/",
+        "title": "Home",
+        "disabled": false,
+        "tree_id": 1,
+        "level": 1,
+        "weight": 0,
+        "language": "en",
+        "rght": 15,
+        "lft": 14,
+        "parent": 1
+    }
+},
+{
+    "model": "mptt_424_app.menuitem",
+    "pk": 24,
+    "fields": {
+        "path": "about",
+        "title": "About us",
+        "disabled": false,
+        "tree_id": 1,
+        "level": 1,
+        "weight": 0,
+        "language": "en",
+        "rght": 17,
+        "lft": 16,
+        "parent": 1
+    }
+},
+{
+    "model": "mptt_424_app.menuitem",
+    "pk": 25,
+    "fields": {
+        "path": "tours",
+        "title": "Tours",
+        "disabled": false,
+        "tree_id": 1,
+        "level": 1,
+        "weight": 0,
+        "language": "en",
+        "rght": 19,
+        "lft": 18,
+        "parent": 1
+    }
+},
+{
+    "model": "mptt_424_app.menuitem",
+    "pk": 26,
+    "fields": {
+        "path": "contact",
+        "title": "Contact",
+        "disabled": false,
+        "tree_id": 1,
+        "level": 1,
+        "weight": 0,
+        "language": "en",
+        "rght": 21,
+        "lft": 20,
+        "parent": 1
+    }
+}
+]
